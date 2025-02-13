@@ -6,7 +6,7 @@ h1 {
     font-family: sans-serif;
     text-align: center;
     color: #fff;
-    margin-top: 15rem;
+    margin: 20rem 2rem;
     font-weight: bold;
-    font-size: 120pt
+    font-size: calc(30pt + 5vw);
 }
